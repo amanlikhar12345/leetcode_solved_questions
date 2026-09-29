@@ -5,7 +5,7 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        minimum = min(nums)
-        maximum = max(nums)
+        minimum=min(nums)
+        maximum=max(nums)
 
-        return max(0, (maximum - k) - (minimum + k))
+        return max(0,(maximum-k)-(minimum+k))
