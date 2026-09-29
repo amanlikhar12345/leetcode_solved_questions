@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0908-smallest-range-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0908-smallest-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Math
+|  |
+| ------- |
+| [0908-smallest-range-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0908-smallest-range-i) |
 <!---LeetCode Topics End-->
