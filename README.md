@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0910-smallest-range-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
