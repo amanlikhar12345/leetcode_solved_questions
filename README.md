@@ -63,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0511-game-play-analysis-i) |
 | [0627-swap-sex-of-employees](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
