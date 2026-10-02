@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0020-valid-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -66,4 +67,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0511-game-play-analysis-i) |
 | [0627-swap-sex-of-employees](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1068-product-sales-analysis-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
