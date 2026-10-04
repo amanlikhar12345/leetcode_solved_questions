@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
 | [1051-height-checker](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1051-height-checker) |
+| [1816-truncate-sentence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1816-truncate-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2678-number-of-senior-citizens) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0020-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1816-truncate-sentence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2678-number-of-senior-citizens](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2716-minimize-string-length) |
