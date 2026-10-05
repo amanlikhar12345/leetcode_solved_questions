@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0020-valid-parentheses) |
 | [0504-base-7](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0504-base-7) |
+| [0856-score-of-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0856-score-of-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
