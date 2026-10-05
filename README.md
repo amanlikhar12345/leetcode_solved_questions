@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0796-rotate-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0856-score-of-parentheses) |
+| [1078-occurrences-after-bigram](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1078-occurrences-after-bigram) |
 | [1392-longest-happy-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
