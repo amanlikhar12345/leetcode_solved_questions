@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0504-base-7) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0856-score-of-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0856-score-of-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
