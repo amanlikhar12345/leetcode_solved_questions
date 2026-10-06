@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0925-long-pressed-name](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0925-long-pressed-name) |
 | [2540-minimum-common-value](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0925-long-pressed-name](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1078-occurrences-after-bigram) |
 | [1392-longest-happy-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1392-longest-happy-prefix) |
