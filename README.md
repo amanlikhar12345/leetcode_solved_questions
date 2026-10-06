@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1078-occurrences-after-bigram) |
 | [1392-longest-happy-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
