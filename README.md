@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0925-long-pressed-name](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0925-long-pressed-name) |
+| [2396-strictly-palindromic-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2396-strictly-palindromic-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
