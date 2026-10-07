@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0039-combination-sum) |
 | [0162-find-peak-element](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0575-distribute-candies) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2540-minimum-common-value](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 ## Backtracking
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0925-long-pressed-name](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0925-long-pressed-name) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Brainteaser
 |  |
@@ -201,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0877-stone-game) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
