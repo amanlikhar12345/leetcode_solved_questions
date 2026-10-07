@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2785-sort-vowels-in-a-string) |
+| [3794-reverse-string-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
