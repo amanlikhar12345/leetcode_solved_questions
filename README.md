@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0575-distribute-candies](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0877-stone-game) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0575-distribute-candies](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0575-distribute-candies) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
