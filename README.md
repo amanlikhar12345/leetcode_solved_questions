@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2678-number-of-senior-citizens) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2716-minimize-string-length) |
 | [3668-restore-finishing-order](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
 | [1051-height-checker](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1051-height-checker) |
 | [2785-sort-vowels-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2785-sort-vowels-in-a-string) |
+| [3731-find-missing-elements](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
