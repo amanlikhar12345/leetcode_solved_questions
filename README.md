@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1816-truncate-sentence) |
+| [1929-concatenation-of-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Counting Sort
 |  |
