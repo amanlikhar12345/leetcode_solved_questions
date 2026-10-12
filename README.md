@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -242,4 +243,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0054-spiral-matrix) |
+| [1672-richest-customer-wealth](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
