@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3794-reverse-string-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3894-traffic-signal-color](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3894-traffic-signal-color](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3894-traffic-signal-color) |
 ## Counting Sort
 |  |
 | ------- |
