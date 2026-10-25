@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0180-consecutive-numbers) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0511-game-play-analysis-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0511-game-play-analysis-i) |
 | [0620-not-boring-movies](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0627-swap-sex-of-employees) |
