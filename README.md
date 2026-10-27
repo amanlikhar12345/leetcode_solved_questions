@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3516-find-closest-person](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3516-find-closest-person) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3894-traffic-signal-color) |
 ## Greedy
