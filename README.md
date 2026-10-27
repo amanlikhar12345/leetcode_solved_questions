@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 | [2678-number-of-senior-citizens](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3668-restore-finishing-order) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2716-minimize-string-length) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3668-restore-finishing-order](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3731-find-missing-elements) |
@@ -297,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
