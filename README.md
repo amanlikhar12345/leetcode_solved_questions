@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0054-spiral-matrix) |
 | [0162-find-peak-element](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0217-contains-duplicate) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0504-base-7) |
