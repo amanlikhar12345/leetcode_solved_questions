@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2785-sort-vowels-in-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3340-check-balanced-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3894-traffic-signal-color) |
