@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1051-height-checker](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0575-distribute-candies) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1051-height-checker](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
