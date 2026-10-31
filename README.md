@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2540-minimum-common-value](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2574-left-and-right-sum-differences) |
 | [2678-number-of-senior-citizens](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
