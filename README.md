@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0060-permutation-sequence) |
 | [0415-add-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0877-stone-game) |
@@ -329,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2574-left-and-right-sum-differences) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
