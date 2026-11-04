@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1732-find-the-highest-altitude](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1929-concatenation-of-array) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2574-left-and-right-sum-differences) |
 ## Recursion
 |  |
