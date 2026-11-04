@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0060-permutation-sequence) |
 | [0415-add-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -352,5 +353,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
