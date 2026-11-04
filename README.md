@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0054-spiral-matrix) |
 | [0162-find-peak-element](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0162-find-peak-element) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0060-permutation-sequence) |
 | [0415-add-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0415-add-strings) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
