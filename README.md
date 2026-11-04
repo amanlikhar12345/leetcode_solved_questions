@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0682-baseball-game) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1920-build-array-from-permutation) |
