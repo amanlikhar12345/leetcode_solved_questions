@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1763-longest-nice-substring](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1763-longest-nice-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2716-minimize-string-length) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1763-longest-nice-substring](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1763-longest-nice-substring) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1763-longest-nice-substring](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1763-longest-nice-substring) |
 ## Brainteaser
 |  |
 | ------- |
@@ -332,10 +335,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1763-longest-nice-substring](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1763-longest-nice-substring) |
 ## Enumeration
 |  |
 | ------- |
