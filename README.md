@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0495-teemo-attacking) |
+| [0525-contiguous-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0682-baseball-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0525-contiguous-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0888-fair-candy-swap) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0525-contiguous-array) |
 | [1732-find-the-highest-altitude](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2574-left-and-right-sum-differences) |
 ## Recursion
