@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0060-permutation-sequence) |
