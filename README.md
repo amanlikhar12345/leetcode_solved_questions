@@ -376,4 +376,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0060-permutation-sequence) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
