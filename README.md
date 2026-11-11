@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-find-closest-person](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3516-find-closest-person) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3894-traffic-signal-color) |
 ## Greedy
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Database
 |  |
 | ------- |
