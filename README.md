@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0495-teemo-attacking) |
 | [0525-contiguous-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0888-fair-candy-swap) |
 | [0910-smallest-range-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
