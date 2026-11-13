@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0867-transpose-matrix) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2574-left-and-right-sum-differences) |
 ## Recursion
