@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0504-base-7) |
