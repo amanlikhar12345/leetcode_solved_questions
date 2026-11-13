@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1763-longest-nice-substring) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0191-number-of-1-bits) |
 | [1763-longest-nice-substring](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
