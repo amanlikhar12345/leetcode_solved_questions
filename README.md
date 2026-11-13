@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-find-closest-person](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3516-find-closest-person) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3875-construct-uniform-parity-array-i) |
