@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2785-sort-vowels-in-a-string) |
 | [3467-transform-array-by-parity](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3467-transform-array-by-parity) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2469-convert-the-temperature) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Database
