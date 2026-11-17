@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0217-contains-duplicate) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
