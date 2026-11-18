@@ -1,0 +1,18 @@
+class Solution:
+    def numOfSubarrays(self, arr: list[int]) -> int:
+        mod=10**9+7
+        even=1
+        odd=0
+        prefix=0
+        ans=0
+        for num in arr:
+            prefix+=num
+
+            if prefix%2==0:
+                even+=1
+                ans+=odd
+            
+            else:
+                ans+=even
+                odd+=1
+        return ans % mod
