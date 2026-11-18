@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1672-richest-customer-wealth](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1732-find-the-highest-altitude) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2235-add-two-integers) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Minimax
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2574-left-and-right-sum-differences) |
 ## Recursion
