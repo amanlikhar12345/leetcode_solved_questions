@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1763-longest-nice-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2418-sort-the-people](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2716-minimize-string-length) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2418-sort-the-people](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2716-minimize-string-length) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Indexed Tree
 |  |
