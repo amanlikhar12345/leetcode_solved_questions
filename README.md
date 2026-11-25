@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1763-longest-nice-substring](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
@@ -436,4 +439,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
