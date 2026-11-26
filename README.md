@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3360-stone-removal-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3360-stone-removal-game) |
 | [3516-find-closest-person](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3360-stone-removal-game](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3360-stone-removal-game) |
 | [3894-traffic-signal-color](https://github.com/amanlikhar12345/leetcode_solved_questions/tree/master/3894-traffic-signal-color) |
 ## Counting Sort
 |  |
